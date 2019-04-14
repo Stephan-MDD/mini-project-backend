@@ -1,0 +1,1 @@
+module.exports = { user: 'test', password: 'test' }
